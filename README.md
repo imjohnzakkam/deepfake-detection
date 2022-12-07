@@ -15,6 +15,5 @@ Some of the state-of-the-art datasets which synthesize deepfakes very accurately
 - [FaceForensics++](http://niessnerlab.org/projects/roessler2018faceforensics.html) another large-scale deepfake video dataset containing 3000+ deepfake videos [Dataset Download Link](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform)
 
 
-# Current SOTA Techniques
-
-
+# Current Techniques
+For more insights please refer to [Literature Survey]()
