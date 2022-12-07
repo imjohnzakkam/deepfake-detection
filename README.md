@@ -16,4 +16,4 @@ Some of the state-of-the-art datasets which synthesize deepfakes very accurately
 
 
 # Current Techniques
-For more insights please refer to [Literature Survey](literature%20survey/README.md)
+For more insights please refer to [Literature Survey](literature%20survey)
